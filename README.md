@@ -9,3 +9,8 @@ Wish me luck!
 ## Subheader
 
 Now, I know about .git (hidden) folder.
+
+
+## Something in another branch
+
+1. Open index.html in your browser
